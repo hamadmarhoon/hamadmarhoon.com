@@ -43,11 +43,11 @@ export const RESUME_DATA = {
         url: "https://www.linkedin.com/in/hamad-marhoon",
         icon: LinkedInIcon,
       },
-      {
-        name: "X",
-        url: "https://x.com/hamadmarhoon_",
-        icon: XIcon,
-      },
+      // {
+      //   name: "X",
+      //   url: "https://x.com/hamadmarhoon_",
+      //   icon: XIcon,
+      // },
     ],
   },
   education: [
