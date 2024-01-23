@@ -55,8 +55,8 @@ export const RESUME_DATA = {
       school: "University of Arizona",
       degree:
         "Bachelor of Science in Computer Science + Bachelor of Arts in Philosophy",
-      start: "2020",
-      end: "2024",
+      start: "Aug 2020",
+      end: "May 2024",
     },
   ],
   work: [
@@ -76,7 +76,7 @@ export const RESUME_DATA = {
       badges: [],
       title: "Resident Assistant",
       start: "Aug 2022",
-      end: "May 2024",
+      end: "Present",
       description:
         "I oversaw a floor of 24 students in the Arizona-Sonora dorm. I created an environment conducive to academic and social growth within my residents, serving as a resource for them to succeed in their first year of college.",
     },
