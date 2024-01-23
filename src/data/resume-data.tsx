@@ -26,12 +26,12 @@ export const RESUME_DATA = {
   locationLink: "https://www.google.com/maps/place/Tucson",
   about: "Programmer and Philosopher",
   summary:
-    "I am a senior undergraduate at the University of Arizona earning a Bachelor of Science in Computer Science and a Bachelor of Arts in Philosophy.",
+    "I'm a senior undergraduate at the University of Arizona earning a Bachelor of Science in Computer Science and a Bachelor of Arts in Philosophy.",
   avatarUrl: "https://i.ibb.co/pjjySrk/headshot.jpg",
   personalWebsiteUrl: "https://hamadmarhoon.com/",
   contact: {
     email: "marhoon@arizona.edu",
-    tel: "+5209108834",
+    tel: "+15209108834",
     social: [
       {
         name: "GitHub",
@@ -128,8 +128,8 @@ export const RESUME_DATA = {
       description:
         "A website for exploring Southern Arizona communities with AR",
       link: {
-        label: "useminimal.com",
-        href: "https://useminimal.com/",
+        label: "dcb.arizona.edu",
+        href: "https://dcb.arizona.edu/",
       },
     },
     {
