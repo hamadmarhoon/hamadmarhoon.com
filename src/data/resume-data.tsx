@@ -96,8 +96,15 @@ export const RESUME_DATA = {
   projects: [
     {
       title: "Truckly",
-      techStack: ["Tech Lead", "React Native", "JavaScript", "Firebase"],
-      description: "A food truck finder app",
+      techStack: [
+        "Tech Lead",
+        "React Native",
+        "JavaScript",
+        "Firebase",
+        "iOS",
+        "Android",
+      ],
+      description: "A food truck finder app, available on iOS and Android.",
       link: {
         label: "truckly.io",
         href: "https://truckly.io",
