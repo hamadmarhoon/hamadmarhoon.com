@@ -18,16 +18,17 @@ import {
   YearProgressLogo,
 } from "@/images/logos";
 import { GitHubIcon, LinkedInIcon, XIcon } from "@/components/icons";
+import headshot from "@/images/headshot.jpg";
 
 export const RESUME_DATA = {
   name: "Hamad Marhoon",
   initials: "HM",
   location: "Tucson, Arizona, MST",
   locationLink: "https://www.google.com/maps/place/Tucson",
-  about: "Programmer and Philosopher",
+  about: "I like building things",
   summary:
     "I'm a senior undergraduate at the University of Arizona earning a Bachelor of Science in Computer Science and a Bachelor of Arts in Philosophy.",
-  avatarUrl: "https://i.ibb.co/pjjySrk/headshot.jpg",
+  avatarUrl: headshot,
   personalWebsiteUrl: "https://hamadmarhoon.com/",
   contact: {
     email: "marhoon@arizona.edu",
