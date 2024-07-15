@@ -27,7 +27,7 @@ export const RESUME_DATA = {
   locationLink: "https://www.google.com/maps/place/Tucson",
   about: "I like building things",
   summary:
-    "I'm a senior undergraduate at the University of Arizona earning a Bachelor of Science in Computer Science and a Bachelor of Arts in Philosophy.",
+    "I am passionate about building software that solves problems and makes our lives easier.",
   avatarUrl: headshot,
   personalWebsiteUrl: "https://hamadmarhoon.com/",
   contact: {
@@ -67,7 +67,7 @@ export const RESUME_DATA = {
       title: "Lead Developer",
       start: "May 2022",
       badges: [],
-      end: "Present",
+      end: "May 2024",
       description:
         "I led a team of developers at the Center for Digital Humanities to create web applications. We utilized React, Next.js, and Firebase to develop user-friendly platforms for various cultural and academic entities.",
     },
@@ -77,24 +77,31 @@ export const RESUME_DATA = {
       badges: [],
       title: "Resident Assistant",
       start: "Aug 2022",
-      end: "Present",
+      end: "May 2024",
       description:
         "I oversaw a floor of 24 students in the Arizona-Sonora dorm. I created an environment conducive to academic and social growth within my residents, serving as a resource for them to succeed in their first year of college.",
     },
   ],
   skills: [
-    "JavaScript",
     "TypeScript",
     "Python",
     "Java",
     "C",
     "React/Next.js",
-    "Mobile Development",
     "React Native",
     "Firebase",
-    "Web Development",
   ],
   projects: [
+    {
+      title: "Chicana Borderlands Voices",
+      techStack: ["Developer", "React", "TypeScript", "Firebase"],
+      description:
+        "Mapping important figures in the political involvement of women in Texas/Arizona.",
+      link: {
+        label: "https://chicanaborderlandsvoices.vercel.app/",
+        href: "https://chicanaborderlandsvoices.vercel.app/",
+      },
+    },
     {
       title: "Truckly",
       techStack: [
