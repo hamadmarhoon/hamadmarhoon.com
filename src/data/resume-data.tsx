@@ -102,22 +102,7 @@ export const RESUME_DATA = {
         href: "https://chicanaborderlandsvoices.vercel.app/",
       },
     },
-    {
-      title: "Truckly",
-      techStack: [
-        "Tech Lead",
-        "React Native",
-        "JavaScript",
-        "Firebase",
-        "iOS",
-        "Android",
-      ],
-      description: "A food truck finder app, available on iOS and Android.",
-      link: {
-        label: "truckly.io",
-        href: "https://truckly.io",
-      },
-    },
+
     {
       title: "Music & Health Story Lab",
       techStack: ["Lead Developer", "JavaScript", "React", "Firebase"],
